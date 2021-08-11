@@ -1,0 +1,17 @@
+body
+{
+    font-family: 'Patrick Hand', cursive;
+    background-color: aqua;
+}
+.heading
+{
+    height: 200px;
+    width: 90%;
+    font-size: 40px;
+}
+canvas 
+{
+    border: 5px solid rgb(0, 253, 241);
+    border-radius: 7px;
+    box-shadow: 5px 5px 5px rgb(0, 255, 213);
+}
