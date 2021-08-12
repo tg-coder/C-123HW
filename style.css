@@ -15,3 +15,13 @@ canvas
     border-radius: 7px;
     box-shadow: 5px 5px 5px rgb(0, 255, 213);
 }
+.copyright
+{
+    position: fixed;
+    color: blueviolet;
+    bottom: 0;
+    width: 100%;
+    background-color: teal;
+    line-height: 3;
+    text-align: center;
+}
